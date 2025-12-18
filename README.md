@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I’m Rohit Kaundal</h1>
-<p align="center"><b>Cybersecurity • GenAI • Systems Thinking</b></p>
+<h1 align="center">Hi, I’m Rohit Kaundal</h1>
+<p align="center"><b>Cybersecurity · GenAI · Systems Thinking</b></p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohit-kaundal&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-kaundal" />
@@ -7,79 +7,72 @@
 
 ---
 
-## 🧭 Why I Exist
-I build **practical security systems** for a future where  
-**startups move fast, AI scales decisions, and security keeps up — automatically.**
+## Why I Build
+I design practical security systems for a world where startups move fast, AI scales decisions, and security keeps up automatically.
 
-My focus is simple:  
-**less fear, less friction, more shipping.**
+The goal is simple: less friction, fewer surprises, and more shipping.
 
 ---
 
-## 🌍 The Bigger Picture (What I’m Working Toward)
-Security today is:
-- reactive  
-- expensive  
-- human-heavy  
-- and always late  
+## The Direction
+Modern security is reactive, human-heavy, and always late.
 
-I’m working toward a world where:
-- security is **continuous**
-- compliance is **built-in**
-- and **AI does the heavy lifting**, not founders or engineers  
+I’m working toward systems where:
+- security is continuous  
+- compliance is built-in  
+- AI handles the repetitive and complex work  
 
-This is not about tools.  
-This is about **changing how security fits into modern product building**.
+This is not about more tools.  
+It’s about changing how security fits into product development.
 
 ---
 
-## 🔧 What I Actually Do (Execution Zone)
-I spend most of my time **building, testing, and shipping**.
+## What I’m Working On
+I spend most of my time building, testing, and shipping.
 
-### 🛡️ Open Source
-**[`k8s-scanner`](https://github.com/rohit-kaundal/k8s-scanner)**  
-Agentless Kubernetes security scanner  
-→ best practices  
-→ CVE detection  
-→ engineer-first, no nonsense  
+### Open Source
+[k8s-scanner](https://github.com/rohit-kaundal/k8s-scanner)  
+Agentless Kubernetes security scanner focused on:
+- best-practice validation  
+- CVE detection  
+- engineer-first usability  
 
-Built because I needed it myself.
+Built to solve a problem I had to solve myself.
 
-### 🧠 Private Work (In Progress)
-**GenAI-powered security & compliance tooling**  
-→ cloud posture understanding  
-→ AI risk & control mapping  
-→ audit readiness without spreadsheets  
+### Private Work (In Progress)
+AI-driven security and compliance systems for:
+- cloud posture understanding  
+- AI risk and control mapping  
+- audit readiness without spreadsheets  
 
-Think: **security systems that think with you, not after you.**
+Security systems that think alongside teams, not after incidents.
 
 ---
 
-## 🎯 Who My Work Is For
+## Who This Is For
 - SaaS startups (0–50 employees)  
-- Founders facing **SOC2 / ISO / investor scrutiny**  
-- CTOs & DevOps engineers who want security to *just work*  
+- Founders preparing for SOC 2, ISO 27001, or investor diligence  
+- CTOs and DevOps engineers who want security to stay out of the way  
 
-If you’re scaling fast and security feels like drag —  
-you’re exactly who I build for.
-
----
-
-## 🧠 Principles I Build By
-- Security should **enable velocity**, not slow it  
-- AI should **augment engineers**, not replace them  
-- Automation > documentation  
-- Systems > heroics  
-- Ship → observe → improve  
+If you are scaling quickly and security feels fragile, this work is for you.
 
 ---
 
-## 🔗 Find Me Elsewhere
-- 🌐 https://www.rohitkaundal.com  
-- 💼 https://www.linkedin.com/in/rohitkaundal  
-- 🐦 https://twitter.com/rohitkaundal  
+## Principles
+- Security should enable velocity  
+- AI should amplify engineers  
+- Automation beats documentation  
+- Systems beat heroics  
+- Ship, observe, improve  
 
 ---
 
-> I don’t believe founders should fear audits or security.  
+## Elsewhere
+- https://www.rohitkaundal.com  
+- https://www.linkedin.com/in/rohitkaundal  
+- https://twitter.com/rohitkaundal  
+
+---
+
+> Founders shouldn’t fear audits or security.  
 > They should fear building without systems that scale with them.
